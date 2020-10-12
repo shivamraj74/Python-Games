@@ -1,3 +1,4 @@
+#This game can only be played in your command-line interpreter, since msvcrt is available there only! Play and Enjoy, Have a Good Dayyyyyyy! Games looks like this!!!
 import msvcrt 
 import time 
 
